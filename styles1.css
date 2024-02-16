@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif; /* Fallback para fonte padrão, se a cursiva não estiver disponível */
+    background-color:#333
+  }
+
+.back{
+    font-family: 'cursive', cursive; /* Utilizando a fonte cursiva */
+    background-color: black; /* cor do fundo do texto pricipal */
+    color: red; /* cor do texto */
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+
+    text-align: center;
+}
+
+.back{
+  background-color: black;
+}
+
+.espaço{
+  margin: 20px;
+}
+
+p{
+  color: white;
+}
+
+
+  
